@@ -19,8 +19,8 @@ I created this project using the Eclipse IDE. If you would like to clone and run
     Press Next.
     Locate your java folder, e.g.: C:\Program Files\Java\jdk1.7. on Windows and Library/Java/JavaVirtualMachine/jdk 1.8. You       want to open the Home folder inside the jdk directory
     Populate JRE home with it.
-    Setup.png
-    
+![alt text](https://github.com/sambsnyder/simple-mp3-player/blob/master/Setup.png)
+
 # External Sources/Accreditations 
 
 The starter code GUI for this project was provided to my by my professor Olga Karpenko. https://www.usfca.edu/faculty/olga-karpenko
