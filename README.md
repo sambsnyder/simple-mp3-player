@@ -19,6 +19,7 @@ I created this project using the Eclipse IDE. If you would like to clone and run
     Press Next.
     Locate your java folder, e.g.: C:\Program Files\Java\jdk1.7. on Windows and Library/Java/JavaVirtualMachine/jdk 1.8. You       want to open the Home folder inside the jdk directory
     Populate JRE home with it.
+    Setup.png
     
 # External Sources/Accreditations 
 
