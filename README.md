@@ -1,9 +1,9 @@
 # simple-mp3-player
 A simple mp3 player that I was required to build for a Java class in college
 # Summary
-*This program recursively traverses a directory(and its subdirectories) to find all mp3 files.    
-*The internal data structure inside the "SongDatabase" is a custom LinkedList that I wrote myself. 
-*I used JLayerlibrary for playing mp3 files: http://www.javazoom.net/javalayer/javalayer.html
+* This program recursively traverses a directory(and its subdirectories) to find all mp3 files.    
+* The internal data structure inside the "SongDatabase" is a custom LinkedList that I wrote myself. 
+* I used JLayerlibrary for playing mp3 files: http://www.javazoom.net/javalayer/javalayer.html
 and Audio tagger was used to extract info(title and artist) about .mp3 files: https://bitbucket.org/ijabz/jaudiotagger/src/master/
 ## Setup
 This project requires a java Execution environment of 1.8
